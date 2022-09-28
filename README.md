@@ -1,0 +1,2 @@
+# The Approach
+The analysis was done using the pyspark application on python. The requirements for using the data were satisfied and the files were imported before building a model to extract useful recommendations. Implementation was done in google colab notebook that utilizes Apache Spark and Pandas data frame. The original data for anime and rating data was gotten from Kaggle and myanimelist.net.
